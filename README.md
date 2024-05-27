@@ -1,11 +1,6 @@
-### Hi there 👋
+### Hi there 👋  
 
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/133086618?s=400&u=aa8fc306c2dd278fc009738f69aa48c36f7019b6&v=4" align="center" height="" width="200" />
-</div>  
-  
-
-## **<div align="center">U5</div>**  
+# **<div align="center">U5</div>**  
   
 
 I'm  a Japanese student.  
@@ -13,6 +8,9 @@ I'm  a Japanese student.
 
 <br/>  
 
+![trophy](https://github-profile-trophy.vercel.app/?username=u5u5u5u&no-frame=true&margin-w=30&title=PullRequest,Commits,Issues)
+
+<img src="https://wakatime.com/share/@U5/e1a757a8-10bf-461c-8768-b973e2a53852.svg" width="600"></img>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -62,8 +60,6 @@ I'm  a Japanese student.
 
 ## Github Stats  
 <div align="center" style="width: 500px"><img src="https://github-readme-stats.vercel.app/api?username=u5u5u5u&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 50%" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u5u5u5u&hide_border=true&hide=Liquid&layout=donut" align="center" style="width: 50%"/></div>  
 
 <br/>  
 
