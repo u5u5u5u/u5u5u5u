@@ -10,7 +10,7 @@ I'm  a Japanese student.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=u5u5u5u&no-frame=true&margin-w=30&title=PullRequest,Commits,Issues)
 
-<img src="https://wakatime.com/share/@U5/e1a757a8-10bf-461c-8768-b973e2a53852.svg" width="600"></img>
+<div align="center"><img src="https://wakatime.com/share/@U5/e1a757a8-10bf-461c-8768-b973e2a53852.svg" width="600"></img></div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
