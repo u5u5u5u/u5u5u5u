@@ -59,7 +59,7 @@ I'm  a Japanese student.
 ## Github Stats  
 <div align="center" style="width: 500px">
   <img src="https://github-readme-stats.vercel.app/api?username=u5u5u5u&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&hide_border=true&theme=radical" align="center" style="width: 40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u5u5u5u&layout=compact&count_private=true&hide=liquid,css&hide_border=true&theme=radical" align="center" style="width: 40%" />
 </div>  
 
 <br/>  
